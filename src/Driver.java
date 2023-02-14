@@ -11,7 +11,9 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class Driver {
+
+
+public class Driver{
 	/**
 	 * Record of all the bank accounts made at this bank
 	 */
@@ -384,3 +386,5 @@ public class Driver {
 		}
 	}
 }
+
+
